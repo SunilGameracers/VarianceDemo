@@ -1,2 +1,0 @@
-VarianceDemo
-# VarianceDemo
